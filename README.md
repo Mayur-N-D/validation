@@ -1,16 +1,66 @@
-# React + Vite
+# 🔐 Authentication Form UI (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Authentication Form UI built using React.js and Vite, featuring seamless switching between Login and Sign Up forms.
 
-Currently, two official plugins are available:
+This project focuses on frontend validation structure, UI/UX design, and component-based architecture.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🔄 Toggle between Login and Sign Up forms
+- 📧 Email & Password input fields
+- 👤 Full Name field for registration
+- 🎯 Clean and responsive UI design
+- ⚡ Fast performance with Vite
+- 🎨 Styled using custom CSS
+- 🧩 Component-based architecture
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+Frontend: React.js
+
+Build Tool: Vite
+
+Styling: CSS
+
+State Management: React Hooks (useState)
+
+---
+
+## 📂 Project Structure
+
+- validation/
+- │── public/              
+- │── src/
+- │   ├── assets/          
+- │   ├── AuthForm.jsx     
+- │   ├── App.jsx          
+- │   ├── main.jsx         
+- │   ├── App.css          
+- │   ├── index.css
+- │── index.html
+- │── package.json
+- │── vite.config.js
+
+---
+
+## 📝 Disclaimer
+
+This project is created **only for learning and educational purposes**.  
+It does **not** provide real streaming functionality or copyrighted content.  
+All images/icons used are placeholders or royalty-free.
+
+---
+
+## 📩 Contributions
+
+Contributions are always welcome!  
+Feel free to fork, modify, and improve the UI.  
+If you have ideas for better design or animations, send a Pull Request 😊
+
+---
+
+### ⭐ Don’t forget to give this project a star if you like it!
