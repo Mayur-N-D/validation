@@ -20,13 +20,10 @@ This project focuses on frontend validation structure, UI/UX design, and compone
 
 ## 🛠️ Tech Stack
 
-Frontend: React.js
-
-Build Tool: Vite
-
-Styling: CSS
-
-State Management: React Hooks (useState)
+- Frontend: React.js
+- Build Tool: Vite
+- Styling: CSS
+- State Management: React Hooks (useState)
 
 ---
 
